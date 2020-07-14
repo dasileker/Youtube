@@ -206,13 +206,10 @@ grid header
 .switch {
   position: relative;
   display: inline-block;
-<<<<<<< HEAD
   width: 60px;
   height: 34px;
-=======
   width: 50px;
   height: 25px;
->>>>>>> master
 }
 
 .switch input { 
@@ -236,13 +233,10 @@ grid header
 .slider:before {
   position: absolute;
   content: "";
-<<<<<<< HEAD
   height: 26px;
   width: 26px;
-=======
   height: 20px;
   width: 20px;
->>>>>>> master
   left: 4px;
   bottom: 4px;
   background-color: white;
