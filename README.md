@@ -1,5 +1,9 @@
 # Youtube page 
-> This project consists of building an HTML document that matches the appearance of youtube video player page.
+
+> This project consists of building an HTML document
+
+![screenshot](youtube.png)
+
 
 # Build by
 - HTML
@@ -14,6 +18,8 @@
 
 **Author 1**
 GitHub [@dasileker](https://github.com/dasileker)
+
+Twiter [@zerradi]
 
 **Author 2**
 GitHub [@olyadi](https://github.com/CornerstoneII)
